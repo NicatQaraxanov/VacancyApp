@@ -46,3 +46,12 @@ Backend: ASP.NET Core
 Frontend: Razor Pages
 Database: SQL Server
 ORM: EntityFramework Core
+
+## Getting Started
+1. Clone the repository:
+  `git clone https://github.com/NicatQaraxanov/VacancyApp`
+2. Navigate to the project directory:
+  `cd VacancyApp`
+3. Set up the database connection string in the configuration file (appsettings.json).
+4. Run the application:
+  `dotnet run`
